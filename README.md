@@ -1,1 +1,1 @@
-# QP
+# Distributed Programming
